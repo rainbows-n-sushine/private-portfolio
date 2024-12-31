@@ -20,7 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         "hero-pattern": "url('/src/assets/purple_bg.svg')",
-        "hero-enhanced":"url('/src/assets/vortex.jpg')"
+        "hero-enhanced":"url('/src/assets/meteor.svg')"
       },
     },
   },
