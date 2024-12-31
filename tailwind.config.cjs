@@ -18,9 +18,12 @@ module.exports = {
       screens: {
         xs: "450px",
       },
-      backgroundImage: {
-        "hero-pattern": "url('/src/assets/purple_bg.svg')",
-      },
+      extend: {
+        backgroundImage: {
+          "hero-pattern": "url('/src/assets/purple_bg.svg')",
+          "hero-enhanced": "url('/src/assets/my-background-image.jpg')",
+        },
+     },
     },
   },
   plugins: [],
