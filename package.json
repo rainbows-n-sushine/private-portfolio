@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "engines":{
-    "node":"16.20.2"
+    "node":"22.13.1"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
