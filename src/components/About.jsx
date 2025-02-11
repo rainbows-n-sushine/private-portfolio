@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Hey there! 👋 I'm a passionate software developer with a knack for
-       TypeScript and JavaScript, and I love working with frameworks 
-       like React, React Native and Express.js using nodejs on the backend.✨ I'm a fast learner ⚡,always eager 
-       to tackle new challenges, and I thrive on collaborating with awesome clients 
-       to build efficient, scalable, and user-friendly solutions 🚀. 
+      Hey there! 👋 I'm a passionate software developer with a knack for JavaScript.
+      I love working with frameworks like React, React Native and Express for node js for the backend.✨
+       I'm a fast learner ⚡,always eager to tackle new challenges.
+       I thrive on collaborating with awesome clients to build efficient,
+       scalable, and user-friendly solutions 🚀. 
        Let's team up and turn your ideas into reality! 🎉💡
       </motion.p>
 

@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "MERN stack Developer",
-    company_name: "Starbucks",
+    company_name: "Zewd Academy",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
